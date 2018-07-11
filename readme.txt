@@ -1,3 +1,2 @@
-hajdfdkkdskfjsfsfdfdsfsdfsdf
-Creating a new branch is quick & simple.
-
+hajdfdkkdskfjsfsfdfdsfsdfsd
+Creating a new branch is quick AND simple.
